@@ -4,7 +4,7 @@ import { Timer } from './Timer.js';
 const App = {
     async start() {
         try {
-            Timer.init(time)
+            Timer.init()
             /*
             await Notifyer.init()
             Notifyer.notify({
