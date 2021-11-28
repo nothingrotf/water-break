@@ -1,0 +1,23 @@
+{
+  "name": "water-break",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nothingrotf/water-break.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nothingrotf/water-break/issues"
+  },
+  "homepage": "https://github.com/nothingrotf/water-break#readme",
+  "devDependencies": {
+    "electron": "^16.0.2"
+  }
+}
